@@ -21,7 +21,6 @@ from InflexMusic.utils.decorators.language import languageCB
 from InflexMusic.utils.formatters import seconds_to_min
 from InflexMusic.utils.inline import close_markup, stream_markup, stream_markup_timer
 from InflexMusic.utils.stream.autoclear import auto_clean
-from InflexMusic.utils.thumbnails import get_thumb
 from config import (
     BANNED_USERS,
     SOUNCLOUD_IMG_URL,
